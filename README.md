@@ -20,36 +20,36 @@ An AI-powered forecasting system for predicting global electric vehicle adoption
 ## Advanced Models
 - LSTM (Long Short-Term Memory)
 - GRU (Gated Recurrent Unit)
-Prophet Forecasting
-Support Vector Regression (SVR)
-CatBoost Regressor
+- Prophet Forecasting
+- Support Vector Regression (SVR)
+- CatBoost Regressor
 
 ## Technologies
-Python
-GRU
-LSTM
-Sequential
-TensorFlow
-Keras
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-XGBoost
-CatBoost
-Prophet
+- Python
+- GRU
+- LSTM
+- Sequential
+- TensorFlow
+- Keras
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- XGBoost
+- CatBoost
+- Prophet
 
 ### Project Structure
 EV-Adoption-Forecasting-Worldwide │ ├── EV_Adoption_Forecasting.ipynb ├── ev_final_forecasting.py ├── ev_ameer.csv ├── requirements.txt └── README.md
 
 ## Applications
-EV Market Forecasting
-Battery Demand Prediction
-Sustainability Analysis
-Smart Mobility Planning
--Gradient Boosting
--XGBoost
--Artificial Neural Network (ANN)
+- EV Market Forecasting
+- Battery Demand Prediction
+- Sustainability Analysis
+- Smart Mobility Planning
+- Gradient Boosting
+- XGBoost
+- Artificial Neural Network (ANN)
 
 
