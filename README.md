@@ -18,8 +18,8 @@ An AI-powered forecasting system for predicting global electric vehicle adoption
 - Interactive Visualizations
 - Streamlit Web Application
 ## Advanced Models
-LSTM (Long Short-Term Memory)
-GRU (Gated Recurrent Unit)
+- LSTM (Long Short-Term Memory)
+- GRU (Gated Recurrent Unit)
 Prophet Forecasting
 Support Vector Regression (SVR)
 CatBoost Regressor
