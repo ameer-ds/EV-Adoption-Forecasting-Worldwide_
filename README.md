@@ -1,6 +1,9 @@
 # 🚗 EV Adoption Forecasting Worldwide
 An AI-powered forecasting system for predicting global electric vehicle adoption using advanced Deep Learning and Time-Series models.
 
+# Project Overview
+This project analyzes historical EV sales data from multiple countries to forecast future adoption trends. It integrates traditional machine learning, deep learning, and time-series forecasting techniques to provide accurate predictions and a Streamlit-based battery recommendation system for end users.
+
 ##  Workflow
 - Global EV Sales Trend Analysis
 - Data Preprocessing
